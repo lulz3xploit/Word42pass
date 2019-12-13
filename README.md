@@ -3,8 +3,8 @@ Word42pass
 > Why Word42pass ?
 >> Word42pass (Word for to pass) is a tool to generate a readable and pronounceable password.
 >> It is annoying to remember a 12 character password with capital letters, special characters.
->> and very often, it's impossible to remember, because the password was generated with letters bet randomly to piss you off
->> word42pass generate a password like: `igupayuri` is better than `hbhdvjez`. better to remember.
+>> and very often, it's impossible to remember, because the password was generated with letters bet randomly, to piss you off.
+>> Word42pass generate a password like: `igupayuri` is better than `hbhdvjez`. better to remember.
 
 > ok.. but why Word42pass ??
 >> **Word** : word
